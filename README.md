@@ -19,7 +19,7 @@ The features supported by the generator, and their functions are as follows:
 - ```(``` Start subpattern
 - ```)``` End subpattern (Nested suppatterns are supported.)
 
-The only requirement for the generator to work is Python version > 3.6
+The only requirement for the generator to work is **Python version > 3.6**
 
 In order to run the Random String Generator, use the following command inside the random_string_generator folder:
     ``` python __main__.py```
