@@ -4,7 +4,7 @@ A string generator that takes a regular expression as argument and returns strin
 
 Commands should be in the form:
  
-    ```generate(/- [-+]?[0-9]{1,16}[.][0-9]{1,6}/, 10)```
+    generate(/- [-+]?[0-9]{1,16}[.][0-9]{1,6}/, 10)
 
 The features supported by the generator, and their functions are as follows:
 - ```.``` Match any character except newline
